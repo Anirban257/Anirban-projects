@@ -188,7 +188,7 @@ header.sticky{
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     gap: 9rem;
-    margin-top: -600px;
+    margin-top: -700px;
 }
 .holiday-img img{
     width: 100%;
@@ -317,7 +317,7 @@ header.sticky{
     grid-template-columns: repeat(2, 1fr);
     align-items: center;
     gap: 2rem;
-    margin-top: -100px;
+    margin-top: -150px;
 }
 .newsletter-text h2{
     font-size: 5rem;
