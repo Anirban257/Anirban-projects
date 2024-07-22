@@ -350,7 +350,7 @@ header.sticky{
     bottom: 0;
     width: 100%;
     background-color: var(--bg-color);
-    margin-top: -700px;
+    margin-top: -600px;
 }
 .footer-box{
     display: flex;
